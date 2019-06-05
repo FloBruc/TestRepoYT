@@ -1,0 +1,13 @@
+Für alle, die sich die Befehle auch nicht merken können: Linux: pwd: aktuellen Ordner anzeigen cd .. : einen Ordner höher gehen cd <ordner>: in Ordner wechseln Basic: git init: repo aus aktuellem Ordner erstellen git add <datei>/--all : Datei selektieren git commit --m „message“ : Commit abschicken Log: git log: Commits auflisten git log --all: Commits auflisten git log --all --graph --oneline: alle Commits als Graph auflisten --> log ende: Leertaste, q Checkout + Branches: git checkout <commitHash>: auf Commit zurückspringen git checkout –b „name“: neuen Branch erstellen git checkout <branch>: zu Branch wechseln git merge <branch>: Branch in aktuellen Branch mergen -->merge Commit quit: :q + Enter GitHub: git clone <GitHubRepoLink> <Zielordner>: GitHub Repo in Zielodner klonen git push: lokales Repo in GitHub laden git pull: GitHub Repo in lokales Repo laden Other: git diff <datei>: alle Änderungen der Datei auflisten git status: alle geänderten Dateien anzeigen git reset --hard HEAD: zum letzten Commit zurücksetzen git rm <datei>: Datei löschen git stash: aktuellen Zustand zwischenspeichern(vorher alle Dateien adden) git stash pop: stash wiederherstellen
+
+
+
+
+
+
+
+
+
+
+
+
